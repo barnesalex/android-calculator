@@ -141,7 +141,7 @@
             android:layout_height="match_parent"
             android:orientation="vertical"
             android:layout_weight="1"
-            android:id="@+id/verticalLine1">
+            android:id="@+id/verticalLine4">
 
             <Button
                 android:layout_width="match_parent"
